@@ -21,7 +21,17 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 
 ~ ~
 
+---
+
 ## Gruppi dei Corsi
+
+| nome corso | professore |
+|----|----|
+| Advance Logic | HOSNI |
+| Antropologia Filosoficaa | DI MARTINO |
+| Antropologia Filosofica | ZHOK |
+| Antropologia Sociale | :/ |
+| Antropologia Ambientale | MANGIAMELI |
 
 - Antropologia Filosofica - DI MARTINO
 - Antropologia Filosofica - ZHOK
@@ -35,9 +45,7 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 - Etica Applicata
 - Storia della Metafisica Contemporanea - VALORE
 
-| pro | va |
-|----|----|
-| Storia della Metafisica Contemporanea | BELLA |
 
+&#124;
 
 ~ ~
