@@ -43,6 +43,22 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 | [Filosofia Morale](https://chat.whatsapp.com/B6iejUUMe7nIfsmpVpARHi) | DI MARTINO |
 | [Fonti, Modelli e Linguaggi dell'Arte Contemporanea](https://chat.whatsapp.com/CJJhzZzVrfeH2jPYrz5b8x) | BIGNAMI |
 | [Geografia dell'Ambiente e del Paesaggio](https://chat.whatsapp.com/Fv1AZqeUJdBLVhwyIfjWup) | :/ |
-
+| [History and Foundation of the Physics](https://chat.whatsapp.com/Hla1DuF694fKGwgN0r8gV5) | GUICCIARDINI |
+| [Human Animal Studies / Estetica Applicata](https://chat.whatsapp.com/L6DCuBXrdX34qFSJEsMosz) | :/ |
+| [Human Animal Studies](https://chat.whatsapp.com/JH0mYKbv9Ix5voWMZUrIZY) | :/ |
+| [Laboratorio Didattica](https://chat.whatsapp.com/DpXPWvCjuSU8eurP34FP9n) | FIAMMA |
+| [Language and Logic](https://chat.whatsapp.com/C5aUTfzUYpd6WmoaIzXMKu) | ZUCCHI |
+| [Language and Society](https://chat.whatsapp.com/C9mXyX3WQJZCfulNFiuF5o) | GOBO |
+| [Logical Methods](https://chat.whatsapp.com/JWuzUF8hTE87GRfTmkkM1O) | D'AGOSTINO |
+| [Logic of Computation and Information](https://chat.whatsapp.com/IXqDuAAQruTA5Rh8pVtkyS) | PRIMIERO |
+| [Metodologie e Tecnologie Didattiche](https://chat.whatsapp.com/IhkFbiqWdeHEBoQVQIKvKz) | GARAVAGLIA |
+| [Philosophy of Cognitive Neuroscience](https://chat.whatsapp.com/E14TBgUvGvX6oQkvNpGmpL) | ANDREW |
+| [Philosophical Analysis](https://chat.whatsapp.com/Jo3e3rqO7gxIpGZZt6DfhM) | TORRENGO |
+| [Probabilistic Logic](https://chat.whatsapp.com/I2T1mAEXMJwLEvyKlsF9i0) | HOSNI |
+| [Progettazione Didattica](https://chat.whatsapp.com/LZqyBQaicyu5oz5uMYPXOF) | :/ |
+| [Psicologia Generale](https://chat.whatsapp.com/Fh41FaqDucY4F2l8bxWhwL) | LUCCHIARI |
+| [Religioni del Mondo Classico](https://chat.whatsapp.com/LekPb5i8iLT4n029qqCudf) | ROMANI |
+| [Representation and Image Theories](https://chat.whatsapp.com/BsNvSGfOWeP9AhOeQq27Wx) | PINOTTI |
+| [Rules, Reasons and Norms](https://chat.whatsapp.com/Fiu7yzeWV9L764NDHHHMKm) | GUALA |
 
 ~ ~
