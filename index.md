@@ -6,7 +6,6 @@ permalink:
 
 # Scienze Filosofiche Unimi
 Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di Laurea Magistrale Scienze Filosofiche presso l'Università di Milano. _Buona scoperta!_
-
 ~ ~ ~
 
 ## Gruppi di Facoltà
@@ -24,22 +23,18 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 
 ## Gruppi dei Corsi
 
-- Antropologia Filosofica
-DI MARTINO
-- Antropologia Filosofica
-ZHOK
-- Advance Logic
-HOSNI
+- Antropologia Filosofica | DI MARTINO
+- Antropologia Filosofica | ZHOK
+- Advance Logic | HOSNI
 - Antropologia Sociale
-- Antropologia Ambientale
-MANGIAMELI
+- Antropologia Ambientale | MANGIAMELI
 - Artificial Intelligence
-- Cultura Visuale
-SUBINI
-- Estetica del Performativo
-CAPPELLETTO
-- Estetica degli Oggetti
-FRANZINI
+- Cultura Visuale | SUBINI
+- Estetica del Performativo | CAPPELLETTO
+- Estetica degli Oggetti | FRANZINI
 - Etica Applicata
 
-~ ~
+- Storia della Metafisica Contemporanea | VALORE
+
+
+~ ~ ~
