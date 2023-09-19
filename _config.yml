@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: 'Per qualsiasi modifica: <a href="https://t.me/darmstadtio">Telegram</a>'
+footer: 'Per qualsiasi modifica: <a href="https://github.com/Darmstadtio/SF_Unimi.github.io">Github</a> o <a href="https://t.me/darmstadtio">Telegram</a>'
 
 # Build settings
 markdown: kramdown
