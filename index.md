@@ -7,7 +7,7 @@ permalink:
 # Scienze Filosofiche Unimi
 Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di Laurea Magistrale Scienze Filosofiche presso l'Università di Milano. _Buona scoperta!_
 
-....................
+~ ~
 
 # Gruppi di Facoltà
 - [Unimi Filosofia](https://chat.whatsapp.com/invite/JZJ26wv5UsOL8we1jpoVo4) &#124; gruppo Whatsapp della Triennale di Filosofia
