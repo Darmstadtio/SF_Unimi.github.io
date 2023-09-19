@@ -9,20 +9,20 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 
 ....................
 
-## Gruppi di Facoltà
+# Gruppi di Facoltà
 - [Unimi Filosofia](https://chat.whatsapp.com/invite/JZJ26wv5UsOL8we1jpoVo4) &#124; gruppo Whatsapp della Triennale di Filosofia
 - [Scienze Filosofiche &#124; uniMI](https://chat.whatsapp.com/HwS2q19xW9c8Vs6lvmt85p) &#124; gruppo Whatsapp Ufficiale del corso di Scienze Filosofiche
 - [Scienze Filosofiche 22/23](https://chat.whatsapp.com/DT9IsqwZ02qAAwQY1dFWCR) &#124; gruppo Whatsapp del corso di Scienze Filosofiche assieme ai rappresentanti degli Studenti della lista SU-UDU Statale
 
 ....................
 
-## Gruppi di Curriculum
+# Gruppi di Curriculum
 - [RAM uniMi](https://chat.whatsapp.com/DEW8cwsMmkLDmm68nevfoD)
 - [PhiloRAM](https://chat.whatsapp.com/HZYyQlQEqrzKUQKoVGmwbK)
 
 ....................
 
-## Gruppi dei Corsi
+# Gruppi dei Corsi
 
 | Corso | Professore |
 |----|----|
@@ -36,7 +36,13 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 | [Estetica del Performativo](https://chat.whatsapp.com/FbkcLrNb0MF4hLqacId7Wm) | CAPPELLETTO |
 | [Estetica degli Oggetti](https://chat.whatsapp.com/HB1bMZ44H1eK03KmSB0eDj) | FRANZINI |
 | [Etica Applicata](https://chat.whatsapp.com/FTs8heTChguJBJGkYgGLN7) | :/ |
+| [Fenomenologia Descrittiva](https://chat.whatsapp.com/GutPREsrTOmDNPzHRU1aPG) | SPINICCI |
+| [Filosofia delle Pratiche](https://chat.whatsapp.com/IlrgnsiAK8SFEGmPOr4zM0) | FABBRICHESI |
+| [Filosofia delle Pratiche](https://chat.whatsapp.com/L7Vg1ChRxgs7jPqjbz3FLj) | PARRAVICINI |
+| [Filosofia delle Pratiche (L-Z)](https://chat.whatsapp.com/DVOKiXQecmxAYHk1mwjKpF) | PARRAVICINI |
+| [Filosofia Morale](https://chat.whatsapp.com/B6iejUUMe7nIfsmpVpARHi) | DI MARTINO |
+| [Fonti, Modelli e Linguaggi dell'Arte Contemporanea](https://chat.whatsapp.com/CJJhzZzVrfeH2jPYrz5b8x) | BIGNAMI |
+| [Geografia dell'Ambiente e del Paesaggio](https://chat.whatsapp.com/Fv1AZqeUJdBLVhwyIfjWup) | :/ |
 
-&#124;
 
 ~ ~
