@@ -23,7 +23,7 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 
 ## Gruppi dei Corsi
 
-- Antropologia Filosofica -   DI MARTINO
+- Antropologia Filosofica - DI MARTINO
 - Antropologia Filosofica - ZHOK
 - Advance Logic - HOSNI
 - Antropologia Sociale
@@ -33,8 +33,11 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 - Estetica del Performativo - CAPPELLETTO
 - Estetica degli Oggetti - FRANZINI
 - Etica Applicata
-
 - Storia della Metafisica Contemporanea - VALORE
+
+| pro | va |
+|----|----|
+| Storia della Metafisica Contemporanea | BELLA |
 
 
 ~ ~
