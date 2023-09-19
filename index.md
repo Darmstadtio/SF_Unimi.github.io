@@ -1,13 +1,13 @@
 ---
-title: ciaone
+title:
 layout: home
-permalink: home
+permalink:
 ---
 
-# Other Demo Pages
+# Scienze Filosofiche Unimi
 
 [Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
 
-# Welcome
+## Welcome
 
 Bla bla bla bla. Bla bla bla bla bla bla bla bla.

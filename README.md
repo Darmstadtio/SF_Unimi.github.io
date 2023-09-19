@@ -1,1 +1,3 @@
-# prova2.github.io
+# Scienze Filosofiche Unimi
+
+Il repo del progetto "**Gruppi Scienze Filsofiche**" di Unimi. 
