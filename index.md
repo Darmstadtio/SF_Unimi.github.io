@@ -76,6 +76,7 @@ Ciao! Questo sito raccoglie i link ai gruppi Whatsapp e Telegram del corso di La
 | [Storia Greca](https://chat.whatsapp.com/Kd3l7xHdMji63F6U0KYgPF) | FARAGUNA |
 | [Storia Medievale](https://chat.whatsapp.com/EwUdPySmYvA8wcLM5pR9ib) | GRILLO |
 | [Storia Medievale](https://chat.whatsapp.com/DUcgmObFSIwHwoLRgGe9FQ) | PAGNONI |
+| [Storia Romana](https://chat.whatsapp.com/ITHopihEbmWEEX0uYYuOMv) | RUSSO |
 | [Teorie dell'Immagine in Movimento](https://chat.whatsapp.com/Cqe5AWoi5HY4Co7qZ6siTI) | GRESPI |
 
 ....................
