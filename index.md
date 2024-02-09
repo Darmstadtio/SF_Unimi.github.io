@@ -36,6 +36,7 @@ _Buona scoperta!_
 | [Antropologia Sociale](https://chat.whatsapp.com/EUqNZwJFxs61wj4CnA6YTI) | SAPIGNOLI |
 | [Antropologia Ambientale](https://chat.whatsapp.com/JqlCdfZrTdOLTgrlPlHlzw) | MANGIAMELI |
 | [Artificial Intelligence](https://chat.whatsapp.com/GPGgTNP00fHFrgHx9tuKHT) | FOLGIERI |
+| [Back to Bodies: teorie e pratiche dei corpi in azione](https://chat.whatsapp.com/GFFdLS65a5e2WzFwVyku9H) | CAPPELLETTO | 
 | [Cultura Visuale](https://chat.whatsapp.com/DJdGcnyz90PBCuHmrmAK2Q) | SUBINI |
 | [Estetica del Performativo](https://chat.whatsapp.com/FbkcLrNb0MF4hLqacId7Wm) | CAPPELLETTO |
 | [Estetica degli Oggetti](https://chat.whatsapp.com/HB1bMZ44H1eK03KmSB0eDj) | FRANZINI |
