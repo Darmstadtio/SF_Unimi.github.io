@@ -46,6 +46,7 @@ _Buona scoperta!_
 | [Filosofia delle Pratiche](https://chat.whatsapp.com/L7Vg1ChRxgs7jPqjbz3FLj) | PARRAVICINI |
 | [Filosofia delle Pratiche (L-Z)](https://chat.whatsapp.com/DVOKiXQecmxAYHk1mwjKpF) | PARRAVICINI |
 | [Filosofia Morale](https://chat.whatsapp.com/B6iejUUMe7nIfsmpVpARHi) | DI MARTINO |
+| [Filosofia Politica](https://chat.whatsapp.com/IJ6ILOmrX5hAfqiCeV6QFX) | :/ |
 | [Fonti, Modelli e Linguaggi dell'Arte Contemporanea](https://chat.whatsapp.com/CJJhzZzVrfeH2jPYrz5b8x) | BIGNAMI |
 | [Geografia dell'Ambiente e del Paesaggio](https://chat.whatsapp.com/Fv1AZqeUJdBLVhwyIfjWup) | :/ |
 | [History and Foundation of the Physics](https://chat.whatsapp.com/Hla1DuF694fKGwgN0r8gV5) | GUICCIARDINI |
