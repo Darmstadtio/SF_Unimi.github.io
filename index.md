@@ -52,6 +52,7 @@ _Buona scoperta!_
 | [History and Foundation of the Physics](https://chat.whatsapp.com/Hla1DuF694fKGwgN0r8gV5) | GUICCIARDINI |
 | [Human Animal Studies / Estetica Applicata](https://chat.whatsapp.com/L6DCuBXrdX34qFSJEsMosz) | :/ |
 | [Human Animal Studies](https://chat.whatsapp.com/JH0mYKbv9Ix5voWMZUrIZY) | :/ |
+| [Indologia](https://chat.whatsapp.com/Itfii1VsEkh3VISsDzYwl3) | PIERUCCINI |
 | [Laboratorio Didattica](https://chat.whatsapp.com/DpXPWvCjuSU8eurP34FP9n) | FIAMMA |
 | [Language and Logic](https://chat.whatsapp.com/C5aUTfzUYpd6WmoaIzXMKu) | ZUCCHI |
 | [Language and Society](https://chat.whatsapp.com/C9mXyX3WQJZCfulNFiuF5o) | GOBO |
