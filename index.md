@@ -75,6 +75,7 @@ _Buona scoperta!_
 | [Storia della Filosofia Cotemporanea](https://chat.whatsapp.com/CW9H839QYjoH7hLJO88TZB) | GIORDANETTI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/H7Pfw7eszgvKleXiDkR3Nu) | :/ |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/KVSEg5DOWQYBx3J1KDposu) | CAMPI |
+| [Storia della Filosofia Moderna](https://chat.whatsapp.com/J3cEbVY1DPyIIXm3aOLKN4) | FRIGO |
 | [Storia della Filosofia Politica](https://chat.whatsapp.com/DC8GmOm855YEkfIpBW3cul) | SIMONAZZI |
 | [Storia della Metafisica](https://chat.whatsapp.com/IfLHdBTDibiLquFGC7Gd7V) | DI BELLA |
 | [Storia della Metafisica Contemporanea](https://chat.whatsapp.com/D0VmGPNTvt41aUP8i1ktIh) | VALORE |
