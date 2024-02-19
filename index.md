@@ -59,6 +59,7 @@ _Buona scoperta!_
 | [Logical Methods](https://chat.whatsapp.com/JWuzUF8hTE87GRfTmkkM1O) | D'AGOSTINO |
 | [Logic of Computation and Information](https://chat.whatsapp.com/IXqDuAAQruTA5Rh8pVtkyS) | PRIMIERO |
 | [Metodologie e Tecnologie Didattiche](https://chat.whatsapp.com/IhkFbiqWdeHEBoQVQIKvKz) | GARAVAGLIA |
+| [Mind and Brain](https://chat.whatsapp.com/KJokFPl0oJtBQ0Ys8bN0JK) | LUCCHIARI |
 | [Philosophy of Cognitive Neuroscience](https://chat.whatsapp.com/E14TBgUvGvX6oQkvNpGmpL) | ANDREW |
 | [Philosophical Analysis](https://chat.whatsapp.com/Jo3e3rqO7gxIpGZZt6DfhM) | TORRENGO |
 | [Probabilistic Logic](https://chat.whatsapp.com/I2T1mAEXMJwLEvyKlsF9i0) | HOSNI |
@@ -71,6 +72,7 @@ _Buona scoperta!_
 | [Storia Contemporanea](https://chat.whatsapp.com/JPsK5Yr2IctKWs03UXxmyo) | ZANINI |
 | [Storia Culturale del Mediterraneo](https://chat.whatsapp.com/H70M0RXJD0v0GxdQDn15DR) | MANDALÀ |
 | [Storia Medievale](https://chat.whatsapp.com/DEv8gAifNaX4pCYebFxBPk) | COVINI |
+| [Storia Moderna](https://chat.whatsapp.com/IkC0X9wAdwhEDVW0C1Dh1k) | DATTERO |
 | [Storia della Filosofia Classica Tedesca](https://chat.whatsapp.com/E4MzUDPNCyG5yrFvNpOqkK) | BACIN |
 | [Storia della Filosofia Cotemporanea](https://chat.whatsapp.com/CW9H839QYjoH7hLJO88TZB) | GIORDANETTI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/H7Pfw7eszgvKleXiDkR3Nu) | :/ |
