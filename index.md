@@ -28,9 +28,10 @@ _Buona scoperta!_
 
 # Gruppi dei Corsi
 
-| Corso | Professore |
+| Corso | Professor\* |
 |----|----|
 | [Advance Logic](https://chat.whatsapp.com/EoMArq1fKc19CJLdR71Gik) | HOSNI |
+| [Antropologia della Musica](https://t.me/+8iw5hOcOKsszNGNk) | SCALDAFERRI |
 | [Antropologia Filosofica](https://chat.whatsapp.com/KlUm8LV3fBZ1WbgVWpmqSA) | DI MARTINO |
 | [Antropologia Filosofica](https://chat.whatsapp.com/IgRba0QNT28LxUD4UVvZs4) | ZHOK |
 | [Antropologia Sociale](https://chat.whatsapp.com/EUqNZwJFxs61wj4CnA6YTI) | SAPIGNOLI |
@@ -60,6 +61,7 @@ _Buona scoperta!_
 | [Logic of Computation and Information](https://chat.whatsapp.com/IXqDuAAQruTA5Rh8pVtkyS) | PRIMIERO |
 | [Metodologie e Tecnologie Didattiche](https://chat.whatsapp.com/IhkFbiqWdeHEBoQVQIKvKz) | GARAVAGLIA |
 | [Mind and Brain](https://chat.whatsapp.com/KJokFPl0oJtBQ0Ys8bN0JK) | LUCCHIARI |
+| [Mind and Reality](https://chat.whatsapp.com/BeDa0F9OUF573BN36K8tlP) | VALORE |
 | [Philosophy of Cognitive Neuroscience](https://chat.whatsapp.com/E14TBgUvGvX6oQkvNpGmpL) | ANDREW |
 | [Philosophical Analysis](https://chat.whatsapp.com/Jo3e3rqO7gxIpGZZt6DfhM) | TORRENGO |
 | [Probabilistic Logic](https://chat.whatsapp.com/I2T1mAEXMJwLEvyKlsF9i0) | HOSNI |
