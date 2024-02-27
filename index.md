@@ -34,6 +34,7 @@ _Buona scoperta!_
 | [Antropologia della Musica](https://t.me/+8iw5hOcOKsszNGNk) | SCALDAFERRI |
 | [Antropologia Filosofica](https://chat.whatsapp.com/KlUm8LV3fBZ1WbgVWpmqSA) | DI MARTINO |
 | [Antropologia Filosofica](https://chat.whatsapp.com/IgRba0QNT28LxUD4UVvZs4) | ZHOK |
+| [Antropologia Sociale](https://chat.whatsapp.com/K1xNIIELuEg3z1inQzTd3m) | ALLOVIO |
 | [Antropologia Sociale](https://chat.whatsapp.com/EUqNZwJFxs61wj4CnA6YTI) | SAPIGNOLI |
 | [Antropologia Ambientale](https://chat.whatsapp.com/JqlCdfZrTdOLTgrlPlHlzw) | MANGIAMELI |
 | [Artificial Intelligence](https://chat.whatsapp.com/GPGgTNP00fHFrgHx9tuKHT) | FOLGIERI |
