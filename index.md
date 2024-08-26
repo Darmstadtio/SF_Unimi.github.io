@@ -72,6 +72,7 @@ _Buona scoperta!_
 | [Representation and Image Theories](https://chat.whatsapp.com/BsNvSGfOWeP9AhOeQq27Wx) | PINOTTI |
 | [Rules, Reasons and Norms](https://chat.whatsapp.com/Fiu7yzeWV9L764NDHHHMKm) | GUALA |
 | [Sociologia della Scienza](https://chat.whatsapp.com/KU6rJTljHdWFtC6b2IvqwY) | GOBO |
+| [Storia Contemporanea](https://chat.whatsapp.com/BlqY9XJ7fFWKpi397voWKh) | SARESELLA |
 | [Storia Contemporanea](https://chat.whatsapp.com/JPsK5Yr2IctKWs03UXxmyo) | ZANINI |
 | [Storia Culturale del Mediterraneo](https://chat.whatsapp.com/H70M0RXJD0v0GxdQDn15DR) | MANDALÀ |
 | [Storia Medievale](https://chat.whatsapp.com/DEv8gAifNaX4pCYebFxBPk) | COVINI |
