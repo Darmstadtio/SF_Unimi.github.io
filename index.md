@@ -78,7 +78,7 @@ _Buona scoperta!_
 | [Storia Medievale](https://chat.whatsapp.com/DEv8gAifNaX4pCYebFxBPk) | COVINI |
 | [Storia Moderna](https://chat.whatsapp.com/IkC0X9wAdwhEDVW0C1Dh1k) | DATTERO |
 | [Storia del Pensiero Politico](https://chat.whatsapp.com/FAt6inSx23FGuZMFq3C8tq) | GEUNA |
-| [Storia dell'Asia](https://chat.whatsapp.com/LFhQbDFGbaKIuHu1cltAzG | :/ |
+| [Storia dell'Asia](https://chat.whatsapp.com/LFhQbDFGbaKIuHu1cltAzG) | :/ |
 | [Storia della Filosofia Classica Tedesca](https://chat.whatsapp.com/E4MzUDPNCyG5yrFvNpOqkK) | BACIN |
 | [Storia della Filosofia Cotemporanea](https://chat.whatsapp.com/CW9H839QYjoH7hLJO88TZB) | GIORDANETTI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/H7Pfw7eszgvKleXiDkR3Nu) | :/ |
