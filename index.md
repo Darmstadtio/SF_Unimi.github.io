@@ -76,6 +76,8 @@ _Buona scoperta!_
 | [Storia Culturale del Mediterraneo](https://chat.whatsapp.com/H70M0RXJD0v0GxdQDn15DR) | MANDALÀ |
 | [Storia Medievale](https://chat.whatsapp.com/DEv8gAifNaX4pCYebFxBPk) | COVINI |
 | [Storia Moderna](https://chat.whatsapp.com/IkC0X9wAdwhEDVW0C1Dh1k) | DATTERO |
+| [Storia del Pensiero Politico](https://chat.whatsapp.com/FAt6inSx23FGuZMFq3C8tq) | GEUNA |
+| [Storia dell'Asia](https://chat.whatsapp.com/LFhQbDFGbaKIuHu1cltAzG | :/ |
 | [Storia della Filosofia Classica Tedesca](https://chat.whatsapp.com/E4MzUDPNCyG5yrFvNpOqkK) | BACIN |
 | [Storia della Filosofia Cotemporanea](https://chat.whatsapp.com/CW9H839QYjoH7hLJO88TZB) | GIORDANETTI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/H7Pfw7eszgvKleXiDkR3Nu) | :/ |
@@ -85,7 +87,7 @@ _Buona scoperta!_
 | [Storia della Metafisica](https://chat.whatsapp.com/IfLHdBTDibiLquFGC7Gd7V) | DI BELLA |
 | [Storia della Metafisica Contemporanea](https://chat.whatsapp.com/D0VmGPNTvt41aUP8i1ktIh) | VALORE |
 | [Storia della Scienza e delle Tecniche](https://chat.whatsapp.com/LkOIPrQSk5H2Ni9do2wnHE) | NENCI |
-| [Storia del Pensiero Politico](https://chat.whatsapp.com/FAt6inSx23FGuZMFq3C8tq) | GEUNA |
+| [Storia delle Istituzionei dell'Africa](https://chat.whatsapp.com/CqAKYxW00erAbCRbWwD9vC) | :/ |
 | [Storia Greca](https://chat.whatsapp.com/Kd3l7xHdMji63F6U0KYgPF) | FARAGUNA |
 | [Storia Medievale](https://chat.whatsapp.com/EwUdPySmYvA8wcLM5pR9ib) | GRILLO |
 | [Storia Medievale](https://chat.whatsapp.com/DUcgmObFSIwHwoLRgGe9FQ) | PAGNONI |
