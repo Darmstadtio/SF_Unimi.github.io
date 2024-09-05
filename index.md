@@ -60,6 +60,7 @@ _Buona scoperta!_
 | [Language and Society](https://chat.whatsapp.com/C9mXyX3WQJZCfulNFiuF5o) | GOBO |
 | [Logical Methods](https://chat.whatsapp.com/JWuzUF8hTE87GRfTmkkM1O) | D'AGOSTINO |
 | [Logic of Computation and Information](https://chat.whatsapp.com/IXqDuAAQruTA5Rh8pVtkyS) | PRIMIERO |
+| [Metafisica della Mente](https://chat.whatsapp.com/GzmuOttRwmG0AyEkpB7JXp) | GUARDO |
 | [Metodologie e Tecnologie Didattiche](https://chat.whatsapp.com/IhkFbiqWdeHEBoQVQIKvKz) | GARAVAGLIA |
 | [Mind and Brain](https://chat.whatsapp.com/KJokFPl0oJtBQ0Ys8bN0JK) | LUCCHIARI |
 | [Mind and Reality](https://chat.whatsapp.com/BeDa0F9OUF573BN36K8tlP) | VALORE |
