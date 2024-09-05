@@ -84,11 +84,12 @@ _Buona scoperta!_
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/H7Pfw7eszgvKleXiDkR3Nu) | :/ |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/KVSEg5DOWQYBx3J1KDposu) | CAMPI |
 | [Storia della Filosofia Moderna](https://chat.whatsapp.com/J3cEbVY1DPyIIXm3aOLKN4) | FRIGO |
+| [Storia della Filosofia Politica](https://chat.whatsapp.com/LCNNXBaUjTTCSWqfbgscMp) | CERON |
 | [Storia della Filosofia Politica](https://chat.whatsapp.com/DC8GmOm855YEkfIpBW3cul) | SIMONAZZI |
 | [Storia della Metafisica](https://chat.whatsapp.com/IfLHdBTDibiLquFGC7Gd7V) | DI BELLA |
 | [Storia della Metafisica Contemporanea](https://chat.whatsapp.com/D0VmGPNTvt41aUP8i1ktIh) | VALORE |
 | [Storia della Scienza e delle Tecniche](https://chat.whatsapp.com/LkOIPrQSk5H2Ni9do2wnHE) | NENCI |
-| [Storia delle Istituzionei dell'Africa](https://chat.whatsapp.com/CqAKYxW00erAbCRbWwD9vC) | :/ |
+| [Storia delle Istituzioni dell'Africa](https://chat.whatsapp.com/CqAKYxW00erAbCRbWwD9vC) | :/ |
 | [Storia Greca](https://chat.whatsapp.com/Kd3l7xHdMji63F6U0KYgPF) | FARAGUNA |
 | [Storia Medievale](https://chat.whatsapp.com/EwUdPySmYvA8wcLM5pR9ib) | GRILLO |
 | [Storia Medievale](https://chat.whatsapp.com/DUcgmObFSIwHwoLRgGe9FQ) | PAGNONI |
