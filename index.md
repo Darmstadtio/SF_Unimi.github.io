@@ -58,6 +58,7 @@ _Buona scoperta!_
 | [Laboratorio Didattica](https://chat.whatsapp.com/DpXPWvCjuSU8eurP34FP9n) | FIAMMA |
 | [Language and Logic](https://chat.whatsapp.com/C5aUTfzUYpd6WmoaIzXMKu) | ZUCCHI |
 | [Language and Society](https://chat.whatsapp.com/C9mXyX3WQJZCfulNFiuF5o) | GOBO |
+| [Letteratura Cristiana Antica](https://chat.whatsapp.com/DC343TmsXEP8MTbNi9OQON) | PELLIZZARI |
 | [Logical Methods](https://chat.whatsapp.com/JWuzUF8hTE87GRfTmkkM1O) | D'AGOSTINO |
 | [Logic of Computation and Information](https://chat.whatsapp.com/IXqDuAAQruTA5Rh8pVtkyS) | PRIMIERO |
 | [Metafisica della Mente](https://chat.whatsapp.com/GzmuOttRwmG0AyEkpB7JXp) | GUARDO |
