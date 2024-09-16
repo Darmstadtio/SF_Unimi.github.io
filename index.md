@@ -16,7 +16,6 @@ _Buona scoperta!_
 # Gruppi di Facoltà
 - [Unimi Filosofia](https://chat.whatsapp.com/invite/JZJ26wv5UsOL8we1jpoVo4) &#124; gruppo Whatsapp della Triennale di Filosofia
 - [Scienze Filosofiche &#124; uniMI](https://chat.whatsapp.com/HwS2q19xW9c8Vs6lvmt85p) &#124; gruppo Whatsapp Ufficiale del corso di Scienze Filosofiche
-- [Scienze Filosofiche 22/23](https://chat.whatsapp.com/DT9IsqwZ02qAAwQY1dFWCR) &#124; gruppo Whatsapp del corso di Scienze Filosofiche assieme ai rappresentanti degli Studenti della lista SU-UDU Statale
 
 ....................
 
@@ -33,7 +32,9 @@ _Buona scoperta!_
 | [Advance Logic](https://chat.whatsapp.com/EoMArq1fKc19CJLdR71Gik) | HOSNI |
 | [Antropologia della Musica](https://t.me/+8iw5hOcOKsszNGNk) | SCALDAFERRI |
 | [Antropologia Filosofica](https://chat.whatsapp.com/KlUm8LV3fBZ1WbgVWpmqSA) | DI MARTINO |
+| [Antropologia Filosofica - 2024](https://chat.whatsapp.com/KlUm8LV3fBZ1WbgVWpmqSA)| DI MARTINO | 
 | [Antropologia Filosofica](https://chat.whatsapp.com/IgRba0QNT28LxUD4UVvZs4) | ZHOK |
+| [Antropologia Filosofica - 2024](https://chat.whatsapp.com/GjnM3kjGKMv8CZ2otwnYvv) | ZHOK |
 | [Antropologia Sociale](https://chat.whatsapp.com/K1xNIIELuEg3z1inQzTd3m) | ALLOVIO |
 | [Antropologia Sociale](https://chat.whatsapp.com/EUqNZwJFxs61wj4CnA6YTI) | SAPIGNOLI |
 | [Antropologia Ambientale](https://chat.whatsapp.com/JqlCdfZrTdOLTgrlPlHlzw) | MANGIAMELI |
