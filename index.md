@@ -85,6 +85,7 @@ _Buona scoperta!_
 | [Storia della Filosofia Classica Tedesca](https://chat.whatsapp.com/E4MzUDPNCyG5yrFvNpOqkK) | BACIN |
 | [Storia della Filosofia Cotemporanea](https://chat.whatsapp.com/CW9H839QYjoH7hLJO88TZB) | GIORDANETTI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/H7Pfw7eszgvKleXiDkR3Nu) | :/ |
+| [Storia della Filosofia Medievale](https://chat.whatsapp.com/GP3J9syonMj0pi4n6m0byd) | BIANCHI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/KVSEg5DOWQYBx3J1KDposu) | CAMPI |
 | [Storia della Filosofia Moderna](https://chat.whatsapp.com/J3cEbVY1DPyIIXm3aOLKN4) | FRIGO |
 | [Storia della Filosofia Politica](https://chat.whatsapp.com/LCNNXBaUjTTCSWqfbgscMp) | CERON |
