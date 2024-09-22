@@ -41,6 +41,7 @@ _Buona scoperta!_
 | [Artificial Intelligence](https://chat.whatsapp.com/GPGgTNP00fHFrgHx9tuKHT) | FOLGIERI |
 | [Back to Bodies: teorie e pratiche dei corpi in azione](https://chat.whatsapp.com/GFFdLS65a5e2WzFwVyku9H) | CAPPELLETTO | 
 | [Cultura Visuale](https://chat.whatsapp.com/DJdGcnyz90PBCuHmrmAK2Q) | SUBINI |
+| [Epistemologia Sociale](https://chat.whatsapp.com/Crq4sei1XZ2Kuxctsv3M9x)| GUZZARDI |
 | [Estetica del Performativo](https://chat.whatsapp.com/FbkcLrNb0MF4hLqacId7Wm) | CAPPELLETTO |
 | [Estetica degli Oggetti](https://chat.whatsapp.com/HB1bMZ44H1eK03KmSB0eDj) | FRANZINI |
 | [Etica Applicata](https://chat.whatsapp.com/FTs8heTChguJBJGkYgGLN7) | :/ |
