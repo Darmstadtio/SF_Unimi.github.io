@@ -82,6 +82,7 @@ _Buona scoperta!_
 | [Storia Medievale](https://chat.whatsapp.com/DEv8gAifNaX4pCYebFxBPk) | COVINI |
 | [Storia Medievale](https://chat.whatsapp.com/Kl4SBX0dYaJ3JjtFwkwDSu) | GAMBERINI |
 | [Storia Moderna](https://chat.whatsapp.com/IkC0X9wAdwhEDVW0C1Dh1k) | DATTERO |
+| [Storia Moderna](https://chat.whatsapp.com/L0MnvfbjWCWK3SJFm8oRo5) | RAVIOLA |
 | [Storia del Pensiero Politico](https://chat.whatsapp.com/FAt6inSx23FGuZMFq3C8tq) | GEUNA |
 | [Storia dell'Asia](https://chat.whatsapp.com/LFhQbDFGbaKIuHu1cltAzG) | :/ |
 | [Storia della Filosofia Classica Tedesca](https://chat.whatsapp.com/E4MzUDPNCyG5yrFvNpOqkK) | BACIN |
