@@ -81,6 +81,7 @@ _Buona scoperta!_
 | [Storia Culturale del Mediterraneo](https://chat.whatsapp.com/H70M0RXJD0v0GxdQDn15DR) | MANDALÀ |
 | [Storia Medievale](https://chat.whatsapp.com/DEv8gAifNaX4pCYebFxBPk) | COVINI |
 | [Storia Medievale](https://chat.whatsapp.com/Kl4SBX0dYaJ3JjtFwkwDSu) | GAMBERINI |
+| [Storia Medievale](https://chat.whatsapp.com/CJwtOSIeLAW1Uu9Q5Bx786) | :/ |
 | [Storia Moderna](https://chat.whatsapp.com/IkC0X9wAdwhEDVW0C1Dh1k) | DATTERO |
 | [Storia del Pensiero Politico](https://chat.whatsapp.com/FAt6inSx23FGuZMFq3C8tq) | GEUNA |
 | [Storia dell'Asia](https://chat.whatsapp.com/LFhQbDFGbaKIuHu1cltAzG) | :/ |
