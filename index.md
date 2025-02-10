@@ -104,6 +104,7 @@ _Buona scoperta!_
 | [Storia Medievale](https://chat.whatsapp.com/DUcgmObFSIwHwoLRgGe9FQ) | PAGNONI |
 | [Storia Romana](https://chat.whatsapp.com/ITHopihEbmWEEX0uYYuOMv) | RUSSO |
 | [Teorie dell'Immagine in Movimento](https://chat.whatsapp.com/Cqe5AWoi5HY4Co7qZ6siTI) | GRESPI |
+| [Teorie dell'Immagine](https://chat.whatsapp.com/DHP7eSjhx76AFCHDY66x7W) | PINOTTI |
 
 ....................
 
