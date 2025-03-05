@@ -53,6 +53,7 @@ _Buona scoperta!_
 | [Filosofia Politica](https://chat.whatsapp.com/IJ6ILOmrX5hAfqiCeV6QFX) | :/ |
 | [Fonti, Modelli e Linguaggi dell'Arte Contemporanea](https://chat.whatsapp.com/CJJhzZzVrfeH2jPYrz5b8x) | BIGNAMI |
 | [Geografia dell'Ambiente e del Paesaggio](https://chat.whatsapp.com/Fv1AZqeUJdBLVhwyIfjWup) | :/ |
+| [History of Contemporary Metaphysic](https://chat.whatsapp.com/Icn8JOsJlP73txqMaHQ4on) | :/ |
 | [History and Foundation of the Physics](https://chat.whatsapp.com/Hla1DuF694fKGwgN0r8gV5) | GUICCIARDINI |
 | [Human Animal Studies / Estetica Applicata](https://chat.whatsapp.com/L6DCuBXrdX34qFSJEsMosz) | :/ |
 | [Human Animal Studies](https://chat.whatsapp.com/JH0mYKbv9Ix5voWMZUrIZY) | :/ |
@@ -88,11 +89,13 @@ _Buona scoperta!_
 | [Storia Moderna](https://chat.whatsapp.com/L0MnvfbjWCWK3SJFm8oRo5) | RAVIOLA |
 | [Storia del Pensiero Politico](https://chat.whatsapp.com/FAt6inSx23FGuZMFq3C8tq) | GEUNA |
 | [Storia dell'Asia](https://chat.whatsapp.com/LFhQbDFGbaKIuHu1cltAzG) | :/ |
+| [Storia della Filosodia Antica](https://chat.whatsapp.com/GdYHs8rbD8S72iMVOg7Uoj) | :/ |
 | [Storia della Filosofia Classica Tedesca](https://chat.whatsapp.com/E4MzUDPNCyG5yrFvNpOqkK) | BACIN |
 | [Storia della Filosofia Cotemporanea](https://chat.whatsapp.com/CW9H839QYjoH7hLJO88TZB) | GIORDANETTI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/H7Pfw7eszgvKleXiDkR3Nu) | :/ |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/GP3J9syonMj0pi4n6m0byd) | BIANCHI |
 | [Storia della Filosofia Medievale](https://chat.whatsapp.com/KVSEg5DOWQYBx3J1KDposu) | CAMPI |
+| [Storia della Filosofia Medievale e Moderna](https://chat.whatsapp.com/KGPmLkcbaGn7tjlij6BFIs)| :/ |
 | [Storia della Filosofia Moderna](https://chat.whatsapp.com/J3cEbVY1DPyIIXm3aOLKN4) | FRIGO |
 | [Storia della Filosofia Politica](https://chat.whatsapp.com/LCNNXBaUjTTCSWqfbgscMp) | CERON |
 | [Storia della Filosofia Politica](https://chat.whatsapp.com/DC8GmOm855YEkfIpBW3cul) | SIMONAZZI |
